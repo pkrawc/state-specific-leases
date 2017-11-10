@@ -24,7 +24,7 @@ const CallToAction = props => (
     <Text headline center>
       Do it yourself doesn't mean do it alone
     </Text>
-    <img src={ipadLease} />
+    <img src={ipadLease} alt="ipad" />
     <Button success>let's create your lease</Button>
   </Wrapper>
 )

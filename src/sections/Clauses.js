@@ -71,10 +71,10 @@ const Clauses = ({ clauses = [] }) => (
           ensure you’re protected.
         </Text>
         <Text>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt
-          accusantium suscipit, autem nemo rem doloribus blanditiis beatae
-          corporis inventore eveniet veritatis molestiae nisi maxime nostrum
-          eaque, ad laborum aliquid odio?
+          See which clauses, rules, and disclosures are specific to your
+          location in your lease . We want you to know what your local laws are,
+          and by using Rentalutions, you’ll have everything you need to follow
+          them.
         </Text>
       </div>
       <div className="clauses-card">

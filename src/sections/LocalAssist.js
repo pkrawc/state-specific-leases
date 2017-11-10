@@ -77,10 +77,8 @@ const LocalAssist = props => (
     <div className="copy">
       <Text title>It’s like having a lawyer over your shoulder.</Text>
       <Text>
-        We provide step-by-step guidance on your leasing journey. Lorem ipsum
-        dolor sit amet consectetur adipisicing elit. Enim quibusdam natus animi
-        distinctio exercitationem dolores, pariatur atque odio eum accusantium
-        iure nostrum totam, in, aspernatur molestias ut culpa vel similique.
+        We provide step-by-step guidance on your leasing journey. Together,
+        we’ll make sure your lease is solid.
       </Text>
     </div>
   </Wrapper>
